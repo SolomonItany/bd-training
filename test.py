@@ -6,4 +6,3 @@ print(add(2,4))
 
 print(add(2,4))
 
-print(add(2,4))

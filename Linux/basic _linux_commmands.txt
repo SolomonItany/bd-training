@@ -1,0 +1,98 @@
+
+# Configarations
+
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+
+# List files and directories at path
+ls 
+
+# Prrint working directory
+pwd
+
+# Change directory
+cd
+
+# Make directory
+mkdir
+
+# remove empty directory 
+rmdir
+
+ 
+# delete files or directories 
+rm myfile.txt
+ 
+# move files or directories
+mv myfile.txt /home/user/documents
+
+# Run command with super user privilages
+sudo
+
+# Text editors
+nano [file]
+vi [file]
+
+# Return user name
+whoami
+
+# Pisplay manual pages 
+man [command]
+
+# Transfer data from or to the server
+ curl
+ curl https://some_website.com
+
+# Display current date
+date
+
+# create empty file 
+touch [file_name]
+
+# copy file / directories from origin to destination
+cp myfile.txt /home/user/documents
+
+# Change mode
+chmod u+x myfile.txt 
+
+# cocatinate
+cat myfile.txt --display contents of a file
+
+cat file1 file2 -- concatinate and display contents of multiple files
+
+# Display
+
+more myfile.txt  -- display file on screen one at a time
+
+head -5 myfile.txt --display top 5 in a file 
+
+tail -5 myfile.txt  -- display last 5
+
+echo Hello world! -- display arguments on the console 
+
+# Word count
+
+wc file.txt 
+
+# Unique 
+uniq file.txt 
+
+# Serching for partern in a file 
+
+grep "hello" file.txt 
+
+# print ip address
+ip a / ip addr
+
+# Download file from web 
+wget https://some_website.com/some_file.txt
+
+
+
+
+
+
+
+
+
+
